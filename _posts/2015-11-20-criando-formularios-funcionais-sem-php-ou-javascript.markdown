@@ -67,12 +67,6 @@ Para evitar o recebimento de spam no seu e-mail, inclua o input text â€œ_gotchaâ
 
 {% highlight html %} 
 <form  action="//formspree.io/voce@seudominio.com.br" method="POST">
-{% endhighlight %}
-
-Agora voc
-
-{% highlight html %} 
-<form  action="//formspree.io/voce@seudominio.com.br" method="POST">
     <label>Nome</label>
     <input type="text" name="name" placeholder="Nome" required>
     <br />
