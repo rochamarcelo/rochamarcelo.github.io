@@ -1,0 +1,55 @@
+gems: [jekyll-paginate]
+# Site settings
+title: Marcelo Rocha
+email: contato@omarcelo.com.br
+url: https://rochamarcelo.github.io
+description: "Marcelo Rocha desenvolvedor/programador de software PHP, CakePHP, javascript, MySql, HTML, CSS. Desenvolvedor de software fascinado por web e tecnologia"
+skills: "Desenvolvedor Web - PHP - CakePHP - TDD - Javascript - HTML - MySql"
+meta_author: Marcelo Rocha
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 28B293 #80B3FF
+  primary-rgb: "40,178,147" #"128,179,255"
+  secondary: 300E33 #FD6E8A
+  secondary-dark: 24CCA4 #A2122F
+
+# Footer settings
+footer:
+  copyright: Marcelo Rocha
+  location: Localização
+  social: Na Web
+  credits: Créditos
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/rochamarcelo
+  - title: linkedin
+    url: http://www.linkedin.com/pub/marcelo-rocha/23/6b8/418
+  - title: twitter
+    url: http://twitter.com/mrcodex
+  - title: facebook
+    url: http://www.facebook.com/omarcelorocha
+  - title: google-plus
+    url: hhttp://gplus.to/omarcelorocha
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: São Paulo - Brasil
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: pygments
+permalink: /blog/:title/
