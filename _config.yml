@@ -49,7 +49,5 @@ address:
 
 # Build settings
 markdown: kramdown
-permalink: pretty
-
 highlighter: pygments
 permalink: /blog/:title/
