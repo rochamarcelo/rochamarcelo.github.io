@@ -18,17 +18,17 @@ for necessário ler um e-mail? neste post mostrarei como ler e-mails usando PHP.
   ```
 
 - Obter composer em https://getcomposer.org/download/
-  ```
+ {% highlight bash %} 
   curl -sS https://getcomposer.org/installer | php
-  ```
+ {% endhighlight %}
 
 ### Instalando lib para ler e-mails
 
 Para facilitar a consulta de e-mails criei uma lib. Instale com o composer:
 
-  ```
+  {% highlight bash %} 
    php composer.phar require rochasmarcelo/emailmd:dev-master --prefer-dist
-  ```
+  {% endhighlight %}
 ### Lendo e-mails
 No exemplo abaixo, vamos obter as últimas mensagens recebidas hoje (dia de execução do script).
 
