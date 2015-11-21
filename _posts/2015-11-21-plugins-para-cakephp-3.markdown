@@ -2,6 +2,7 @@
 layout: post
 title:  Plugins para CakePHP 3
 date:   2015-11-21
+description: Tenho trabalhado com CakePHP a um bom tempo, e a cada dia que passa encontro novos plugins disponíveis que facilitam a nossa vida e que nos permite focar mais na regra de negócio do projeto e menos em tarefas secundárias. Confirma a lista de plugins que normalmente utilizo.
 ---
 
 Tenho trabalhado com CakePHP a um bom tempo, e a cada dia que passa encontro novos plugins disponíveis que facilitam a nossa vida e que nos permite focar mais na regra de negócio do projeto e menos em tarefas secundárias.
