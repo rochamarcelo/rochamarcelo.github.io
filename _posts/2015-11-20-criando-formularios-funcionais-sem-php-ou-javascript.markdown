@@ -59,7 +59,7 @@ O FORMSPREE mostra uma página de agradecimento padrão quando o usuário envia 
 
 Para evitar o recebimento de spam no seu e-mail, inclua o input text “_gotcha” mas deixe oculto via CSS.  O FORMSPREE ira ignorar qualquer envio em que for informado um valor para o input “_gotcha”.
 
-```html 
+```
  <input type="text" name="_gotcha" style="display:none" />
 ```
 
