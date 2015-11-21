@@ -54,5 +54,7 @@ Crie o arquivo "receber_emails.php" e copie o código abaixo:
 ?>
 {% endhighlight %}
 
-### Mais opções
-Confira a documentação da lib EmailMD em https://github.com/rochamarcelo/EmailMD
+### Mais
+- Confira a documentação e código fonte da lib EmailMD em https://github.com/rochamarcelo/EmailMD
+- Confirma a documentação do PHP em http://php.net/manual/pt_BR/ref.imap.php
+
