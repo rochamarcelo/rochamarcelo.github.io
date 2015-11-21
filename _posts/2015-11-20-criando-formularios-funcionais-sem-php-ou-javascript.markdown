@@ -15,7 +15,7 @@ Você já criou algum site estático e em um determinado momento o seu cliente s
 
 Primeiramente crie o seu formulário contendo os campos name, _replyTo, e message. O campo _replyTo é usado pelo FORMSPREE como Reply-To do e-mail, desta forma, você pode responder diretamente para a pessoa que preencheu o formulário.
 
-```html 
+```
 <form method="POST">
     <label>Nome</label>
     <input type="text" name="name" placeholder="Nome" required>
