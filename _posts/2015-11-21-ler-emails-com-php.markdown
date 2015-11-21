@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Ler E-mails com PHP
-date:   2015-11-14
+date:   2015-11-21
 description: Todo mundo sabe como enviar e-mails usando PHP mas e ler e-mails, você sabe? Neste post mostrarei como.
 ---
 
@@ -55,4 +55,4 @@ Crie o arquivo "receber_emails.php" e copie o código abaixo:
 {% endhighlight %}
 
 ### Mais opções
-Confira a documentação da Lib EmailMD em https://github.com/rochamarcelo/EmailMD
+Confira a documentação da lib EmailMD em https://github.com/rochamarcelo/EmailMD
