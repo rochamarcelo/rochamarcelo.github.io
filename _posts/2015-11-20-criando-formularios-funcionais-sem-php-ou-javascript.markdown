@@ -8,9 +8,11 @@ description: Você já criou algum site estático e precisou incluir um formulá
 Você já criou algum site estático e em um determinado momento o seu cliente solicitou para incluir um formulário de contato ou talvez no servidor do cliente não tem e não pode instalar PHP, ou talvez você está usando jekyll? Eu já passei por isso algumas vezes, para nossa felicidade existe o FORMSPREE, neste post mostrarei como criar um formulário funcional em uma página estática sem utilizar PHP e Javascript.
 
 ### O que é FORMSPREE
+
 É um serviço que permite enviar e-mails a partir de um formulário HTML. 
 
 ### Crie o seu formulário
+
 Primeiramente crie o seu formulário contendo os campos name, _replyTo, e message. O campo _replyTo é usado pelo FORMSPREE como Reply-To do e-mail, desta forma, você pode responder diretamente para a pessoa que preencheu o formulário.
 ```html 
 <form method="POST">
