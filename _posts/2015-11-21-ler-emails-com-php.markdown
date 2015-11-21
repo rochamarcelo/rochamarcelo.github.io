@@ -13,9 +13,9 @@ for necessário ler um e-mail? neste post mostrarei como ler e-mails usando PHP.
 
 - Primeiramente devemos garantir que temos a extensão imap instalada, no ubuntu podemos instalar assim:
   
-  ```
+ {% highlight bash %} 
   sudo apt-get install php5-imap
-  ```
+ {% endhighlight %}
 
 - Obter composer em https://getcomposer.org/download/
  {% highlight bash %} 
