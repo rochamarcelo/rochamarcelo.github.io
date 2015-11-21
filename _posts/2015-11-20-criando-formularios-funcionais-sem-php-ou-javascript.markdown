@@ -7,7 +7,7 @@ description: Você já criou algum site estático e precisou incluir um formulá
 
 Você já criou algum site estático e em um determinado momento o seu cliente solicitou para incluir um formulário de contato ou talvez no servidor do cliente não tem e não pode instalar PHP, ou talvez você está usando jekyll? Eu já passei por isso algumas vezes, para nossa felicidade existe o FORMSPREE, neste post mostrarei como criar um formulário funcional em uma página estática sem utilizar PHP e Javascript.
 
-### O que é FORMSPREE
+## O que é FORMSPREE
 É um serviço que permite enviar e-mails a partir de um formulário HTML. 
 
 ### Crie o seu formulário
