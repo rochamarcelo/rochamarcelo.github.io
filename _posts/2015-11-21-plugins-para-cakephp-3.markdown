@@ -6,7 +6,7 @@ date:   2015-11-21
 
 Tenho trabalhado com CakePHP já algum tempo, e cada dia que passa encontro novos plugins disponíveis que facilitam a nossa vida e que nos permite focar mais na regra de negócio do projeto e menos em tarefas secundárias.
 
-Esta é a lista de plugins que normalmente utilizo:
+# Esta é a lista de plugins que normalmente utilizo:
 
 - [Acl](https://github.com/cakephp/acl) - Plugin para gerenciamento de ACL (Access Control Lists).
 - [Audit Log](https://github.com/jippi/cakephp-audit-log) - Registra (audita) alterações feitas em um objeto.
