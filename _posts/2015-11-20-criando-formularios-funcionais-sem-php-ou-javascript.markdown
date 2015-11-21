@@ -34,44 +34,44 @@ Primeiramente crie o seu formulário contendo os campos name, _replyTo, e messag
 
 Agora que você já criou o seu formulário,  altere o atributo action do seu formulario para "//formspree.io/voce@seudominio.com.br” sendo que “voce@seudominio.com.br” é o endereço de email que você deseja receber as mensagens.
 
-```html 
+{% highlight html %} 
 <form  action="//formspree.io/voce@seudominio.com.br" method="POST">….
 </form>
-```
+{% endhighlight %}
 
 ### Definindo Assunto
 
 Para facilitar a identificação de mensagens recebidas do seu formulário é recomendado definir um assunto, podemos fazer isso incluindo um input hidden “_subject” como no exemplo:
 
-```html 
+{% highlight html %} 
 <input type="hidden"  name="_subject" value="Contato pelo site!">
-```
+{% endhighlight %}
 
 ### Definindo URL de agradecimento
 
 O FORMSPREE mostra uma página de agradecimento padrão quando o usuário envia o formulário, recomendo definir uma URL para uma página de agradecimento sua, para isso incluimos um input hidden “_next” contendo a URL.
 
-```html 
+{% highlight html %} 
 <input type="hidden" name="_next" value="//seudominio.com.br/obrigado.html" />
-```
+{% endhighlight %}
 
 ### Evitando spam
 
 Para evitar o recebimento de spam no seu e-mail, inclua o input text “_gotcha” mas deixe oculto via CSS.  O FORMSPREE ira ignorar qualquer envio em que for informado um valor para o input “_gotcha”.
 
-```
+{% highlight html %} 
  <input type="text" name="_gotcha" style="display:none" />
-```
+{% endhighlight %}
 
 ### Versão final do formulário:
 
-```html 
+{% highlight html %} 
 <form  action="//formspree.io/voce@seudominio.com.br" method="POST">
-```
+{% endhighlight %}
 
 Agora voc
 
-```html 
+{% highlight html %} 
 <form  action="//formspree.io/voce@seudominio.com.br" method="POST">
     <label>Nome</label>
     <input type="text" name="name" placeholder="Nome" required>
@@ -89,7 +89,7 @@ Agora voc
     <br />
     <input type="submit" value="Enviar" />
 </form>
-```
+{% endhighlight %}
 
 ### Finalizar
 
