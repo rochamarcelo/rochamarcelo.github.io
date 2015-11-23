@@ -11,7 +11,7 @@ Tenho trabalhado com CakePHP a um bom tempo, e a cada dia que passa encontro nov
 
 - [Acl](https://github.com/cakephp/acl) - Plugin para gerenciamento de ACL (Access Control Lists).
 - [Audit Log](https://github.com/jippi/cakephp-audit-log) - Registra (audita) alterações feitas em um objeto.
-- [BoostCake](https://github.com/slywalker/cakephp-plugin-boost_cake) - Um plugin que facilita a utilização do framework [Twitter Bootstrap](http://getbootstrap.com)
+- [bootstrap-ui](https://github.com/friendsofcake/bootstrap-ui) - Um plugin que facilita a utilização do framework [Twitter Bootstrap](http://getbootstrap.com)
 - [CakeDC Search Plugin](https://github.com/cakedc/search) - Ótimo plugin para implementar buscas usando o padrão POST-Redirect-GET.
 - [CakeExcel](https://github.com/dakota/CakeExcel/tree/3.0) - Plugin para geração de arquivos excel com auxilio da biblioteca [PHPExcel](https://github.com/PHPOffice/PHPExcel)
 - [CakeSoftDelete](https://github.com/PGBI/cakephp3-soft-delete) - Permite que os models utilize a técnica de exclusão lógica (soft delete).
