@@ -7,7 +7,7 @@ description: Tenho trabalhado com CakePHP a um bom tempo, e a cada dia que passa
 
 Tenho trabalhado com CakePHP a um bom tempo, e a cada dia que passa encontro novos plugins disponíveis que facilitam a nossa vida e que nos permite focar mais na regra de negócio do projeto e menos em tarefas secundárias.
 
-# Esta é a lista de plugins que normalmente utilizo:
+### Esta é a lista de plugins que normalmente utilizo:
 
 - [Acl](https://github.com/cakephp/acl) - Plugin para gerenciamento de ACL (Access Control Lists).
 - [Audit Log](https://github.com/jippi/cakephp-audit-log) - Registra (audita) alterações feitas em um objeto.
@@ -21,7 +21,7 @@ Tenho trabalhado com CakePHP a um bom tempo, e a cada dia que passa encontro nov
 - [Slug](https://github.com/UseMuffin/Slug) - Um plugin para geração de slugs.
 
 
-# Encontrando plugins
+### Encontrando plugins
 Sempre que vejo a necessidade de utilizar um plugin procuro em:
 - http://plugins.cakephp.org
 - https://github.com/FriendsOfCake/awesome-cakephp
