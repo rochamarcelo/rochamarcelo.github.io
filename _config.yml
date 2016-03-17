@@ -45,5 +45,5 @@ address:
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /blog/:title/
