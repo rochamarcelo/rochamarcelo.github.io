@@ -2,8 +2,10 @@
 layout: post
 title:  Test markdown
 date:   2015-10-28
-description: Test
+description: Test markdown
 ---
+
+A new test
 {% highlight javascript %} 
 {
 	languages: ['PHP', 'Javascript', 'Html'],
