@@ -6,7 +6,7 @@ description: Test markdown
 ---
 
 A new test
-{% highlight javascript %} 
+{% highlight json %} 
 {
 	languages: ['PHP', 'Javascript', 'Html'],
 	frameworks: ['CakePHP', 'angular.js'],
