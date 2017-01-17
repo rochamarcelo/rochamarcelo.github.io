@@ -34,6 +34,7 @@ $(function() {
             $.ajax({
                 url: "rb.moc.olecramo@otatnoc/oi.eerpsmrof//".split("").reverse().join(""),
                 type: "POST",
+                dataType: 'json',
                 data: {
                     name: name,
                     phone: phone,
