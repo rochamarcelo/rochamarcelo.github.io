@@ -13,7 +13,7 @@ $(function() {
     $("input,textarea").jqBootstrapValidation({
         preventSubmit: true,
         submitError: function($form, event, errors) {
-            Window.alert("Erro ao enviar e-mail");
+            window.alert("Erro ao enviar e-mail");
         },
         submitSuccess: function($form, event) {
             event.preventDefault(); // prevent default submit behaviour
