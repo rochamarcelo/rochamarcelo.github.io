@@ -3,8 +3,8 @@ gems: [jekyll-paginate]
 title: Marcelo Rocha
 email: contato@omarcelo.com.br
 url: https://omarcelo.com.br
-description: "Marcelo Rocha desenvolvedor de software | PHP, CakePHP, javascript, MySql, HTML, CSS"
-skills: "Developer - PHP - CakePHP - TDD - Javascript - HTML - MySql"
+description: "Marcelo Rocha desenvolvedor de software"
+skills: "PHP - Javascript - TDD - CakePHP - React - MySql"
 meta_author: Marcelo Rocha
 
 # Google webmaster tools
